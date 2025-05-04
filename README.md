@@ -1,6 +1,4 @@
 
----
-
 # 🗝️ Harvard's CS50P Unlocked
 
 Welcome to my CS50P journey! 👋
