@@ -1,39 +1,54 @@
----
-
-# 🗝️ Harvard's CS50 Unlocked
-
-Welcome! 👋
-This repo contains my solutions to the problem sets from [CS50's Introduction to Programming with Python (CS50P)](https://cs50.harvard.edu/python/2022/), a free course by Harvard University.
-
-I'm using this space to document my journey as I learn the basics of programming and Python—one problem at a time. Each problem includes:
-
-* 📄 A `.md` file with the original question
-* 🐍 A `.py` file with my solution
 
 ---
 
-## 📚 What's in the Repo?
+# 🗝️ Harvard's CS50P Unlocked
 
-You'll find folders or files organized by week or topic. I'm currently working through the course, and I’ll keep updating this as I go!
+Welcome to my CS50P journey! 👋
+This repository contains my personal solutions to the problem sets from [**CS50’s Introduction to Programming with Python**](https://cs50.harvard.edu/python/2022/), a free online course by Harvard University.
 
-> This is a **learning-focused repo**. Feel free to explore the code, compare approaches, or learn along—but please don’t copy directly for submissions.
-
----
-
-## 🚀 Why I'm Doing This
-
-* To practice coding in Python 🧠
-* To stay consistent and track my progress 📈
-* To help others who might be learning too 🌱
+Each challenge helped me explore Python, problem-solving, and core computer science concepts. 🧠💡
 
 ---
 
-## 📝 License
+## 📂 What You’ll Find Here
 
-This project is licensed under the [MIT License](LICENSE). That means you're free to learn from it and share it—with credit.
+Each problem includes:
+
+* 📄 A `.md` file – the original question
+* 🐍 A `.py` file – my Python solution
+
+Files are organized week by week, following the CS50P curriculum.
 
 ---
 
-Thanks for stopping by! ⭐ Feel free to star or follow if you're learning CS50P too!
+## 🚀 Why I Made This
+
+I'm building this repo to:
+
+* 🧱 Strengthen my Python fundamentals
+* 📓 Track my learning progress
+* 🌍 Share knowledge with other learners
+
+> ✨ **Note**: This repository is for educational purposes. Please don’t copy directly for course submissions—learn, explore, and grow! 🙂
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+Feel free to use, share, or adapt the code with attribution.
+
+---
+
+## ⭐ Support the Journey
+
+If you're also taking CS50P or find this repo helpful, feel free to:
+
+* ⭐ Star the repo
+* 🍴 Fork and build on it
+* 🧵 Share your thoughts or suggestions
+
+Happy coding! 🐍💻
+*– From one learner to another*
 
 ---
