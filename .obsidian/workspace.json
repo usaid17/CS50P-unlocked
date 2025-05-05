@@ -13,10 +13,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Week 0 - Problem Set 0/Einstein"
+                "path": "Week 0 - Problem Set 0"
               },
               "icon": "lucide-file",
-              "title": "Einstein"
+              "title": "Week 0 - Problem Set 0"
             }
           }
         ]
@@ -73,7 +73,7 @@
             }
           },
           {
-            "id": "4eb2d8b4e4908b4f",
+            "id": "25559ea59bbf7c27",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -174,13 +174,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4eb2d8b4e4908b4f",
+  "active": "25559ea59bbf7c27",
   "lastOpenFiles": [
+    "Week 0 - Problem Set 0/Week 0 - Problem Set 0.md",
+    "Week 0 - Problem Set 0/Tip Calculator /tip.py.md",
+    "Week 0 - Problem Set 0/Tip Calculator /question.md",
+    "Week 0 - Problem Set 0/Tip Calculator ",
     "Week 0 - Problem Set 0/Einstein/Einstein.py",
     "Week 0 - Problem Set 0/Einstein/Einstein.md",
     "Week 0 - Problem Set 0/Making Faces/Making Faces.md",
     "Week 0 - Problem Set 0/Einstein/Einstein.py.md",
-    "Week 0 - Problem Set 0/Week 0 - Problem Set 0.md",
     "Week 0 - Problem Set 0/Einstein/question.md",
     "Week 0 - Problem Set 0/Einstein"
   ]
