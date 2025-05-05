@@ -11,12 +11,14 @@
             "id": "33ca3837f1bb5b69",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Week 0 - Problem Set 0"
+                "file": "Week 0 - Problem Set 0/05 - Tip Calculator/question.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 0 - Problem Set 0"
+              "title": "question"
             }
           }
         ]
@@ -73,7 +75,7 @@
             }
           },
           {
-            "id": "25559ea59bbf7c27",
+            "id": "affb81624f479f6f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -174,17 +176,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25559ea59bbf7c27",
+  "active": "affb81624f479f6f",
   "lastOpenFiles": [
+    "Week 0 - Problem Set 0/Tip Calculator /Tip Calculator 1.md",
+    "Week 0 - Problem Set 0/Tip Calculator /Tip Calculator.md",
+    "Week 0 - Problem Set 0/05 - Tip Calculator/05 - Tip Calculator.md",
+    "Week 0 - Problem Set 0/05 - Tip Calculator",
     "Week 0 - Problem Set 0/Week 0 - Problem Set 0.md",
-    "Week 0 - Problem Set 0/Tip Calculator /tip.py.md",
-    "Week 0 - Problem Set 0/Tip Calculator /question.md",
+    "Week 0 - Problem Set 0/05 - Tip Calculator/tip.py.md",
+    "Week 0 - Problem Set 0/04 - Einstein/question.md",
+    "Week 0 - Problem Set 0/04 - Einstein/Einstein.py",
+    "Week 0 - Problem Set 0/04 - Einstein",
+    "Week 0 - Problem Set 0/03 - Making Faces/question.md",
+    "Week 0 - Problem Set 0/03 - Making Faces/Making Faces.md",
+    "Week 0 - Problem Set 0/03 - Making Faces/faces.py",
+    "Week 0 - Problem Set 0/03 - Making Faces",
+    "Week 0 - Problem Set 0/02 - Playback Speed/question.md",
+    "Week 0 - Problem Set 0/02 - Playback Speed/playback.py",
+    "Week 0 - Problem Set 0/02 - Playback Speed",
+    "Week 0 - Problem Set 0/01 - Indoor/indoor.py",
+    "Week 0 - Problem Set 0/01 - Indoor/Indoor Voice.md",
+    "Week 0 - Problem Set 0/01 - Indoor",
+    "Week 0 - Problem Set 0/05 - Tip Calculator/question.md",
     "Week 0 - Problem Set 0/Tip Calculator ",
-    "Week 0 - Problem Set 0/Einstein/Einstein.py",
     "Week 0 - Problem Set 0/Einstein/Einstein.md",
     "Week 0 - Problem Set 0/Making Faces/Making Faces.md",
     "Week 0 - Problem Set 0/Einstein/Einstein.py.md",
-    "Week 0 - Problem Set 0/Einstein/question.md",
-    "Week 0 - Problem Set 0/Einstein"
+    "Week 0 - Problem Set 0/Einstein/question.md"
   ]
 }
