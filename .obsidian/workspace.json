@@ -11,14 +11,12 @@
             "id": "6aa12677fde0c8a4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Week 1 - Problem Set 1/Making Faces/faces.py.md",
-                "mode": "source",
-                "source": false
+                "path": "Tags"
               },
               "icon": "lucide-file",
-              "title": "faces.py"
+              "title": "Tags"
             }
           }
         ]
@@ -105,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 1 - Problem Set 1/Making Faces/faces.py.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +112,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for faces.py"
+              "title": "Backlinks"
             }
           },
           {
@@ -124,12 +121,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 1 - Problem Set 1/Making Faces/faces.py.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from faces.py"
+              "title": "Outgoing links"
             }
           },
           {
@@ -153,13 +149,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 1 - Problem Set 1/Making Faces/faces.py.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of faces.py"
+              "title": "Outline"
             }
           }
         ]
@@ -180,24 +175,24 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "6aa12677fde0c8a4",
+  "active": "3e9d0d4b1d30c994",
   "lastOpenFiles": [
-    "Week 1 - Problem Set 1/Playback Speed/question.md",
-    "Week 1 - Problem Set 1/Playback Speed/playback.py",
-    "Week 1 - Problem Set 1/Making Faces/faces.py.md",
-    "Week 1 - Problem Set 1/Making Faces/Making Faces.md",
-    "Week 1 - Problem Set 1/Making Faces/question.md",
-    "Week 1 - Problem Set 1/Making Faces",
+    "Week 0 - Problem Set 0/Making Faces/Making Faces.md",
+    "Week 0 - Problem Set 0/Making Faces/faces.py.md",
+    "Week 0 - Problem Set 0/Playback Speed/question.md",
+    "Week 0 - Problem Set 0/Playback Speed/playback.py",
+    "Week 0 - Problem Set 0/Making Faces/question.md",
+    "Week 0 - Problem Set 0/Making Faces",
     "Week 1 - Problem Set 1/Untitled.md",
-    "Week 1 - Problem Set 1/Indoor/Indoor Voice.md",
+    "Week 0 - Problem Set 0/Indoor/Indoor Voice.md",
     "Week 1 - Problem Set 1/Playback Speed/playback.py.md",
     "Tags",
     "Untitled 1",
     "Untitled",
-    "Week 1 - Problem Set 1/Indoor/indoor.py",
+    "Week 0 - Problem Set 0/Indoor/indoor.py",
     "Week 1 - Problem Set 1/Playback Speed/question.md.md",
     "Untitled.md",
     "Week 1 - Problem Set 1/Indoor/indoor.py.md",
-    "Week 1 - Problem Set 1/Playback Speed"
+    "Week 0 - Problem Set 0/Playback Speed"
   ]
 }
