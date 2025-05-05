@@ -11,14 +11,12 @@
             "id": "33ca3837f1bb5b69",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Week 0 - Problem Set 0/Einstein/Einstein.py.md",
-                "mode": "source",
-                "source": false
+                "path": "Week 0 - Problem Set 0/Einstein"
               },
               "icon": "lucide-file",
-              "title": "Einstein.py"
+              "title": "Einstein"
             }
           }
         ]
@@ -105,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 0 - Problem Set 0/Einstein/Einstein.py.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +112,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Einstein.py"
+              "title": "Backlinks"
             }
           },
           {
@@ -124,12 +121,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 0 - Problem Set 0/Einstein/Einstein.py.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Einstein.py"
+              "title": "Outgoing links"
             }
           },
           {
@@ -153,13 +149,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 0 - Problem Set 0/Einstein/Einstein.py.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Einstein.py"
+              "title": "Outline"
             }
           }
         ]
@@ -181,8 +176,10 @@
   },
   "active": "4eb2d8b4e4908b4f",
   "lastOpenFiles": [
-    "Week 0 - Problem Set 0/Einstein/Einstein.py.md",
     "Week 0 - Problem Set 0/Einstein/Einstein.md",
+    "Week 0 - Problem Set 0/Making Faces/Making Faces.md",
+    "Week 0 - Problem Set 0/Einstein/Einstein.py.md",
+    "Week 0 - Problem Set 0/Week 0 - Problem Set 0.md",
     "Week 0 - Problem Set 0/Einstein/question.md",
     "Week 0 - Problem Set 0/Einstein"
   ]
