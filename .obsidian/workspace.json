@@ -1,22 +1,22 @@
 {
   "main": {
-    "id": "ac8e1d7b746ee202",
+    "id": "c7a7e0e289cf8595",
     "type": "split",
     "children": [
       {
-        "id": "5c0246aa62d83f1a",
+        "id": "6673830e6d5ffb64",
         "type": "tabs",
         "children": [
           {
-            "id": "6aa12677fde0c8a4",
+            "id": "33ca3837f1bb5b69",
             "type": "leaf",
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Tags"
+                "path": "Week 0 - Problem Set 0/Playback Speed"
               },
               "icon": "lucide-file",
-              "title": "Tags"
+              "title": "Playback Speed"
             }
           }
         ]
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a2b80e3f757608b9",
+    "id": "ec6d041b5d702a46",
     "type": "split",
     "children": [
       {
-        "id": "0fb5a5fbf3133f52",
+        "id": "b4f0df3160428e2b",
         "type": "tabs",
         "children": [
           {
-            "id": "ebc4a11dc3d53f9a",
+            "id": "e6e8ecc74bb4389c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +46,7 @@
             }
           },
           {
-            "id": "2350b1422a420268",
+            "id": "0a29a0908878a0c7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +63,7 @@
             }
           },
           {
-            "id": "1c71b127ce669db4",
+            "id": "976a58860b9e7880",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,7 +73,7 @@
             }
           },
           {
-            "id": "3e9d0d4b1d30c994",
+            "id": "4eb2d8b4e4908b4f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -90,15 +90,15 @@
     "width": 300
   },
   "right": {
-    "id": "6b386f53febca84b",
+    "id": "425181673339c92f",
     "type": "split",
     "children": [
       {
-        "id": "7d404d1f68ce1805",
+        "id": "8064e29d02cc9327",
         "type": "tabs",
         "children": [
           {
-            "id": "8910b8e9a8d90d50",
+            "id": "0309b2031a7930ef",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -116,7 +116,7 @@
             }
           },
           {
-            "id": "459674690a823c97",
+            "id": "e7f2a0439545d3fc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -129,7 +129,7 @@
             }
           },
           {
-            "id": "a187384df2a37e13",
+            "id": "2cb9c81284dc06ed",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -144,7 +144,7 @@
             }
           },
           {
-            "id": "f83740026b6b13e3",
+            "id": "e7e3a233ee9bdab8",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -171,28 +171,9 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "publish:Publish changes...": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "3e9d0d4b1d30c994",
-  "lastOpenFiles": [
-    "Week 0 - Problem Set 0/Making Faces/Making Faces.md",
-    "Week 0 - Problem Set 0/Making Faces/faces.py.md",
-    "Week 0 - Problem Set 0/Playback Speed/question.md",
-    "Week 0 - Problem Set 0/Playback Speed/playback.py",
-    "Week 0 - Problem Set 0/Making Faces/question.md",
-    "Week 0 - Problem Set 0/Making Faces",
-    "Week 1 - Problem Set 1/Untitled.md",
-    "Week 0 - Problem Set 0/Indoor/Indoor Voice.md",
-    "Week 1 - Problem Set 1/Playback Speed/playback.py.md",
-    "Tags",
-    "Untitled 1",
-    "Untitled",
-    "Week 0 - Problem Set 0/Indoor/indoor.py",
-    "Week 1 - Problem Set 1/Playback Speed/question.md.md",
-    "Untitled.md",
-    "Week 1 - Problem Set 1/Indoor/indoor.py.md",
-    "Week 0 - Problem Set 0/Playback Speed"
-  ]
+  "active": "33ca3837f1bb5b69",
+  "lastOpenFiles": []
 }
