@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "indoor.py"
             }
+          },
+          {
+            "id": "86c1982a7df789bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 1 - Problem Set 1/Playback Speed/playback.py.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "playback.py"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 1 - Problem Set 1/Indoor/indoor.py.md",
+                "file": "Week 1 - Problem Set 1/Playback Speed/playback.py.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for indoor.py"
+              "title": "Backlinks for playback.py"
             }
           },
           {
@@ -128,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 1 - Problem Set 1/Indoor/indoor.py.md",
+                "file": "Week 1 - Problem Set 1/Playback Speed/playback.py.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from indoor.py"
+              "title": "Outgoing links from playback.py"
             }
           },
           {
@@ -157,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 1 - Problem Set 1/Indoor/indoor.py.md",
+                "file": "Week 1 - Problem Set 1/Playback Speed/playback.py.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of indoor.py"
+              "title": "Outline of playback.py"
             }
           }
         ]
@@ -183,9 +197,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b82532cf7696e69d",
+  "active": "86c1982a7df789bb",
   "lastOpenFiles": [
-    "Week 1 - Problem Set 1/Indoor/Indoor Voice.md",
-    "Week 1 - Problem Set 1/Indoor/indoor.py.md"
+    "Week 1 - Problem Set 1/Playback Speed/question.md.md",
+    "Week 1 - Problem Set 1/Playback Speed/playback.py.md",
+    "Untitled.md",
+    "Week 1 - Problem Set 1/Indoor/indoor.py.md",
+    "Week 1 - Problem Set 1/Playback Speed",
+    "Week 1 - Problem Set 1/Indoor/Indoor Voice.md"
   ]
 }
