@@ -1,7 +1,5 @@
 # creating a "convert text function"
 
-  
-
 def convert(text) :
 
     """Replaces emoticons with emojis"""
@@ -22,10 +20,7 @@ def main() :
 
     print(convert(user_input))
 
-  
 
 # Calling the main function
-
-  
 
 main()
