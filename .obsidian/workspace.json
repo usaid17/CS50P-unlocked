@@ -11,14 +11,12 @@
             "id": "33ca3837f1bb5b69",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Week 0 - Problem Set 0/05 - Tip Calculator/question.md",
-                "mode": "source",
-                "source": false
+                "path": "Week 1 - Problem Set 1/02 - Home Federal Savings Bank"
               },
               "icon": "lucide-file",
-              "title": "question"
+              "title": "02 - Home Federal Savings Bank"
             }
           }
         ]
@@ -75,7 +73,7 @@
             }
           },
           {
-            "id": "affb81624f479f6f",
+            "id": "496738ad8c8121d7",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -176,8 +174,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "affb81624f479f6f",
+  "active": "33ca3837f1bb5b69",
   "lastOpenFiles": [
+    "Week 1 - Problem Set 1/02 - Home Federal Savings Bank/02 - Home Federal Savings Bank.md",
+    "Week 1 - Problem Set 1/02 - Home Federal Savings Bank/bank.py.md",
+    "Week 1 - Problem Set 1/02 - Home Federal Savings Bank/question.md",
+    "Week 1 - Problem Set 1/02 - Home Federal Savings Bank",
+    "Week 1 - Problem Set 1/Week 1 - Problem Set 1.md",
+    "Week 1 - Problem Set 1/01 - Deep Thought/deep.py.md",
+    "Week 1 - Problem Set 1/Untitled.md",
+    "Week 1 - Problem Set 1/01 - Deep Thought/question.md",
+    "Week 1 - Problem Set 1/01 - Deep Thought/01 - Deep Thought.md",
+    "Week 0 - Problem Set 0/03 - Making Faces/Making Faces.md",
+    "Week 1 - Problem Set 1/01 - Deep Thought",
+    "Week 1 - Problem Set 1",
+    "Week 0 - Problem Set 0/05 - Tip Calculator/question.md",
     "Week 0 - Problem Set 0/Tip Calculator /Tip Calculator 1.md",
     "Week 0 - Problem Set 0/Tip Calculator /Tip Calculator.md",
     "Week 0 - Problem Set 0/05 - Tip Calculator/05 - Tip Calculator.md",
@@ -188,17 +199,12 @@
     "Week 0 - Problem Set 0/04 - Einstein/Einstein.py",
     "Week 0 - Problem Set 0/04 - Einstein",
     "Week 0 - Problem Set 0/03 - Making Faces/question.md",
-    "Week 0 - Problem Set 0/03 - Making Faces/Making Faces.md",
     "Week 0 - Problem Set 0/03 - Making Faces/faces.py",
     "Week 0 - Problem Set 0/03 - Making Faces",
     "Week 0 - Problem Set 0/02 - Playback Speed/question.md",
     "Week 0 - Problem Set 0/02 - Playback Speed/playback.py",
     "Week 0 - Problem Set 0/02 - Playback Speed",
-    "Week 0 - Problem Set 0/01 - Indoor/indoor.py",
     "Week 0 - Problem Set 0/01 - Indoor/Indoor Voice.md",
-    "Week 0 - Problem Set 0/01 - Indoor",
-    "Week 0 - Problem Set 0/05 - Tip Calculator/question.md",
-    "Week 0 - Problem Set 0/Tip Calculator ",
     "Week 0 - Problem Set 0/Einstein/Einstein.md",
     "Week 0 - Problem Set 0/Making Faces/Making Faces.md",
     "Week 0 - Problem Set 0/Einstein/Einstein.py.md",
