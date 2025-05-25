@@ -5,7 +5,6 @@ def main():
     current_time = convert(time)
 
   
-
     if 7.0 <= current_time <= 8.0 :
 
         print ("breakfast time")
@@ -17,13 +16,11 @@ def main():
         print ("lunch time")
 
   
-
     elif 18.0 <= current_time <= 19.0 :
 
         print ("dinner time")
 
-  
-  
+
 
 def convert(time):
 
@@ -33,7 +30,6 @@ def convert(time):
 
   
   
-
 if __name__ == "__main__":
 
     main()
