@@ -13,10 +13,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Week 1 - Problem Set 1/02 - Home Federal Savings Bank"
+                "path": "Week 1 - Problem Set 1/03 - File Extensions"
               },
               "icon": "lucide-file",
-              "title": "02 - Home Federal Savings Bank"
+              "title": "03 - File Extensions"
             }
           }
         ]
@@ -73,7 +73,7 @@
             }
           },
           {
-            "id": "496738ad8c8121d7",
+            "id": "8e70648c117b704f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -174,12 +174,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "496738ad8c8121d7",
+  "active": "8e70648c117b704f",
   "lastOpenFiles": [
-    "Week 0 - Problem Set 0/05 - Tip Calculator/tip.py",
-    "Week 1 - Problem Set 1/02 - Home Federal Savings Bank/02 - Home Federal Savings Bank.md",
-    "Week 1 - Problem Set 1/02 - Home Federal Savings Bank/bank.py.md",
+    "Week 1 - Problem Set 1/03 - File Extensions/03 - File Extensions.md",
+    "Week 1 - Problem Set 1/03 - File Extensions/extensions.py.md",
+    "Week 1 - Problem Set 1/03 - File Extensions/question.md",
+    "Week 1 - Problem Set 1/03 - File Extensions",
     "Week 1 - Problem Set 1/02 - Home Federal Savings Bank/question.md",
+    "Week 1 - Problem Set 1/02 - Home Federal Savings Bank/02 - Home Federal Savings Bank.md",
+    "Tags",
+    "Week 0 - Problem Set 0/05 - Tip Calculator/tip.py",
+    "Week 1 - Problem Set 1/02 - Home Federal Savings Bank/bank.py.md",
     "Week 1 - Problem Set 1/02 - Home Federal Savings Bank",
     "Week 1 - Problem Set 1/Week 1 - Problem Set 1.md",
     "Week 1 - Problem Set 1/01 - Deep Thought/deep.py.md",
@@ -201,10 +206,7 @@
     "Week 0 - Problem Set 0/04 - Einstein",
     "Week 0 - Problem Set 0/03 - Making Faces/question.md",
     "Week 0 - Problem Set 0/03 - Making Faces/faces.py",
-    "Week 0 - Problem Set 0/03 - Making Faces",
     "Week 0 - Problem Set 0/02 - Playback Speed/question.md",
-    "Week 0 - Problem Set 0/02 - Playback Speed/playback.py",
-    "Week 0 - Problem Set 0/02 - Playback Speed",
     "Week 0 - Problem Set 0/01 - Indoor/Indoor Voice.md",
     "Week 0 - Problem Set 0/Einstein/Einstein.md",
     "Week 0 - Problem Set 0/Making Faces/Making Faces.md",
